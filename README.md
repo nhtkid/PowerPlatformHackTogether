@@ -17,6 +17,7 @@ I am submitting a solution to use Power Automate Cloud Flow designed to monitor 
 ## Getting Started
 
 - The zip file was exported from my Power Automate environment
+- The video includes the overview of the project with a short demo
 
 ## Contributors
 
