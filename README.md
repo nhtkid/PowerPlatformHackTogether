@@ -16,7 +16,7 @@ I am submitting a solution to use Power Automate Cloud Flow designed to monitor 
 
 ## Getting Started
 
-1. The zip file was exported from the Power Automate
+- The zip file was exported from my Power Automate environment
 
 ## Contributors
 
